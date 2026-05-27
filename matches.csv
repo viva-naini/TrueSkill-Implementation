@@ -1,0 +1,5 @@
+team_a,team_b,score_a,score_b
+"akiva,greg","nic,viva",15,10
+"greg,viva","nic,akiva",13,8
+"akiva,viva","greg,nic",15,8
+"akiva,nic","greg,viva",12,0
